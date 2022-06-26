@@ -1,4 +1,4 @@
-# Project Name: SALES-DASHBOARD
+# Project Name: SALES AND PROFIT DASHBOARD
 
 ----
 # Project Objective
