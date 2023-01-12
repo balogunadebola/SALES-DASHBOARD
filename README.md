@@ -26,7 +26,11 @@ Data used for analysis was cleaned using basic data cleaning skills such as remo
 
 ----
 # Data Modelling
-This was where i connected the fact table to the dimension tables in the data for seamless analyis. The sales table was the FACT TABLE wherein all the primary keys from each table were stored for analysis, while the sales reps tables, customers tables, product and location tables were connected to the Sales table with their respective foreign keys as visualised in the image below. 
+This was where i connected the fact table to the dimension tables in the data for seamless analysis. The sales table was the FACT TABLE wherein all the primary keys from each table were stored for analysis.
+- The sales reps table was connected to the sales fact table with the "Sales Reps ID" key.
+- The customers table was also connected to the sales fact table with the "Customer ID" key.
+- The product table was connected to the sales fact table using the "Product ID" key. 
+- The location table were connected to the sales fact table using the "Location ID" key.  
 
 
 ![Sales Dashboard Modelling](https://user-images.githubusercontent.com/107516898/175808707-4b1a3906-c853-43cc-9046-69014d1d2e30.png)
