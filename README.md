@@ -1,12 +1,16 @@
 # Project Name: SALES AND PROFIT DASHBOARD
 
 ----
-# Project Objective
+# Project Objective: Using key metrics to understand the Sales and Profit trend for Business X from 2014-2018.
 
 
 
 ----
-# Data Sourcing![Sales Dashboard Data Sourcing](https://user-images.githubusercontent.com/107516898/175808468-716bd358-da31-4330-80ba-820ecba92c5c.png)
+# Data Sourcing
+Data used for this analysis was sourced from a repository 30DaysOfLearning Data Analysis using Power BI, powered by @theoyinbooke. 
+
+
+![Sales Dashboard Data Sourcing](https://user-images.githubusercontent.com/107516898/175808468-716bd358-da31-4330-80ba-820ecba92c5c.png)
 
 
 
