@@ -37,8 +37,23 @@ This was where i connected the fact table to the dimension tables in the data fo
 
 
 
+----
+# Data Visualization
+At this stage, we identified certain metrics as it relates to the analysis of the sales and profit of Business X. Some of the metrics identified include:
+- Sales made by region - How much is the Business making from the regions where their services are present?
+- Sales by Category -  How much sales is being made from the categories in Business X?
+- Top five cities by sales - What are the five cities with the most sales?
+- Profit made by each product sub-category by region - How well is Business X doing in terms of profit in the product subcategory present in each region?
+- A line chart depicting the annual profit trend for Business X from the year 2014-2018.
+- A line chart depicting the annual sales trend for Business X from the year 2014-2018. 
+
+
+![Sales Dashboard](https://user-images.githubusercontent.com/107516898/175808768-456b3470-baa8-4785-91a5-f4b794bc3ce9.png)
+
 
 
 ----
-# Data Visualization![Sales Dashboard](https://user-images.githubusercontent.com/107516898/175808768-456b3470-baa8-4785-91a5-f4b794bc3ce9.png)
-
+# Results
+After analysis, it was discovered that the "West" was the region with the most sales, with the figures totalling 0.73m between 2014-2018.
+- The technology category recorded the most sales for the period under consideration, with a figure of 0.84m.
+- The top five cities that recorded top sales between 2014-2018 include Philadelphia with a figure of 0.11m, San Francisco also with a figure of 0.11m, Seattle with a figure of 0.12m, Los Angeles with a figure of 0.18m, and New York city with a figure of 0.26m. New York City, however, ranked high as the city with the most sales, recording a figure of 0.26m between 2014-2018. 
