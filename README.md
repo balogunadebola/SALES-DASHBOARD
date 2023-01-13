@@ -1,7 +1,8 @@
 # Project Name: SALES AND PROFIT DASHBOARD
 
 ----
-# Project Objective: Using key metrics to understand the Sales and Profit trend for Business X from 2014-2018.
+# Project Objective: 
+Using key metrics to understand the Sales and Profit trend for Business X from 2014-2018.
 
 
 
@@ -56,4 +57,7 @@ At this stage, we identified certain metrics as it relates to the analysis of th
 # Results
 After analysis, it was discovered that the "West" was the region with the most sales, with the figures totalling 0.73m between 2014-2018.
 - The technology category recorded the most sales for the period under consideration, with a figure of 0.84m.
-- The top five cities that recorded top sales between 2014-2018 include Philadelphia with a figure of 0.11m, San Francisco also with a figure of 0.11m, Seattle with a figure of 0.12m, Los Angeles with a figure of 0.18m, and New York city with a figure of 0.26m. New York City, however, ranked high as the city with the most sales, recording a figure of 0.26m between 2014-2018. 
+- The top five cities that recorded top sales between 2014-2018 include Philadelphia with a figure of 0.11m, San Francisco also with a figure of 0.11m, Seattle with a figure of 0.12m, Los Angeles with a figure of 0.18m, and New York city with a figure of 0.26m. New York City, however, ranked high as the city with the most sales, recording a figure of 0.26m between 2014-2018.
+- The region that recorded the most profits by sub-products is the West. In the table that contains the profit figures of the subproducts by region, the figures coded in blue represent subproducts with high profits, while those coded in light red to red represent subproducts that recorded losses within the period of review. 
+- From the line chart for profit, we can see that Business X generates most of their profit in 2017, while October is the month that recorded the most profits on Business X products. 
+- From the line chart for sales, the year with the most sales is 2017, while Novemeber and December are the months where sales is most generated. 
