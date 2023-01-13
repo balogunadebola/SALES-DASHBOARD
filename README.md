@@ -61,3 +61,10 @@ After analysis, it was discovered that the "West" was the region with the most s
 - The region that recorded the most profits by sub-products is the West. In the table that contains the profit figures of the subproducts by region, the figures coded in blue represent subproducts with high profits, while those coded in light red to red represent subproducts that recorded losses within the period of review. 
 - From the line chart for profit, we can see that Business X generates most of their profit in 2017, while October is the month that recorded the most profits on Business X products. 
 - From the line chart for sales, the year with the most sales is 2017, while Novemeber and December are the months where sales is most generated. 
+
+
+
+----
+# Observations and Recommendations
+It was observed that the region where Business X made the most sales was the West and could be as a result of the the presence of urbanization as most schools, training centers, firms are located in the urban center. It could also be as a result of the unavailability of products peculiar to a particular region in the stock of Business X. It is recommended that Business X does a market survey of the affected regions through their sales reps to identify products that are akin to that particular region, and then juxtapose the quality of the products with that of ours. 
+Given that the months when Business X generates the most sales tilts towards the festive period, it could be as a result of a unique product in the accessory of Business X, or close proximity to a recreation site. I recommend that the Business X improve the quality of other products so as to generate high sales in other months of the year. 
